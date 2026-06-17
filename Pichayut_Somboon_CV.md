@@ -1,12 +1,16 @@
-# Pichayut Somboon
+<div align="center">
+  <img src="profile.png" width="150" alt="Profile Picture" style="border-radius: 10px; margin-bottom: 15px;" />
+  
+  <h1>Pichayut Somboon</h1>
+  
+  <b>Date of Birth:</b> 03/03/2004 <br>
+  <b>Email:</b> <a href="mailto:pichayut030347@gmail.com">pichayut030347@gmail.com</a> | <b>Phone:</b> 087-119-1689 <br>
+  <b>GitHub:</b> <a href="https://github.com/Pichayut01">https://github.com/Pichayut01</a>
+</div>
 
-**Date of Birth:** 03/03/2004  
-**Email:** [pichayut030347@gmail.com](mailto:pichayut030347@gmail.com) | **Phone:** 087-119-1689  
-**GitHub:** [https://github.com/Pichayut01](https://github.com/Pichayut01)
+---
 
 ## Profile
-
-<img src="profile.png" width="140" alt="Profile Picture" align="right" style="border-radius: 10px; margin-left: 20px; margin-bottom: 10px;" />
 
 A passionate and dedicated student in the **Department of Computer Education, Faculty of Technical Education** at **King Mongkut's University of Technology North Bangkok**. I have strong expertise in computer technology, encompassing both **hardware and software programming**. Through my studies, I have developed excellent **teaching and presentation skills**. I also have hands-on experience developing web applications, desktop software, mobile applications, databases, and API systems. I am eager to continue expanding my knowledge and skills in the tech industry.
 
