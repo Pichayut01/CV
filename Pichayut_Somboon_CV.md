@@ -43,7 +43,8 @@ A passionate and dedicated student in the **Department of Computer Education, Fa
 
 ## Notable Projects
 
-### [Web-based Classroom Management System to Enhance Engagement and Interactive Learning](http://btct.ced.kmutnb.ac.th/echair/)
+### Web-based Classroom Management System to Enhance Engagement and Interactive Learning
+- **Link:** [http://btct.ced.kmutnb.ac.th/echair/](http://btct.ced.kmutnb.ac.th/echair/)
 - Developed a comprehensive web application designed to facilitate classroom management, boost student engagement, and support interactive learning.
 
 ### Container-based Server Infrastructure & Proxy Domain
