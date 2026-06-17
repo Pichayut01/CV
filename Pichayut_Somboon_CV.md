@@ -7,7 +7,9 @@
 **Phone:** 087-119-1689  
 **GitHub:** [https://github.com/Pichayut01](https://github.com/Pichayut01)  
 **LinkedIn:** [https://www.linkedin.com/in/pichyy-news-8b85a3417](https://www.linkedin.com/in/pichyy-news-8b85a3417)
+
 <br clear="all" />
+
 ## Profile
 
 A passionate and dedicated student in the **Department of Computer Education, Faculty of Technical Education** at **King Mongkut's University of Technology North Bangkok**. I have strong expertise in computer technology, encompassing both **hardware and software programming**. Through my studies, I have developed excellent **teaching and presentation skills**. I also have hands-on experience developing web applications, desktop software, mobile applications, databases, and API systems. I am eager to continue expanding my knowledge and skills in the tech industry.
@@ -38,7 +40,7 @@ A passionate and dedicated student in the **Department of Computer Education, Fa
 
 ### IT Intern
 **Advice Lopburi** | *2 Internship Periods*
-- Completed two internship periods during my vocational studies (ปวช. & ปวส.).
+- Completed two internship periods during my vocational studies (Vocational & High Vocational Certificate).
 - Gained practical, hands-on experience in computer hardware, software troubleshooting, and technical support.
 
 ## Notable Projects

@@ -22,14 +22,14 @@
         a { color: #000; text-decoration: none; }
         img { max-width: 100px; border-radius: 8px; margin-left: 15px; float: right; }
         
-        /* CSS สำหรับการพิมพ์ (Print CSS) */
+        /* Print CSS Configuration */
         @media print {
             @page {
                 size: A4;
-                margin: 5mm 5mm; /* ระยะขอบซ้ายขวาน้อยๆ */
+                margin: 5mm 5mm; /* Narrow margins for single page */
             }
             body {
-                font-size: 11.5px; /* ลดขนาด font นิดหน่อยเพื่อให้อยู่ใน 1 หน้าพอดี */
+                font-size: 11.5px; /* Smaller font to fit one page */
                 line-height: 1.25;
                 padding: 0;
             }
@@ -44,7 +44,7 @@
 <body>
     <div id="content">Loading CV...</div>
 
-    <!-- เนื้อหา Markdown ถูกใส่ไว้ในนี้ -->
+    <!-- Embedded Markdown Content -->
     <script type="text/markdown" id="md-content">
 <h1 align="center">Pichayut Somboon</h1>
 
@@ -55,6 +55,8 @@
 **Phone:** 087-119-1689  
 **GitHub:** [https://github.com/Pichayut01](https://github.com/Pichayut01)  
 **LinkedIn:** [https://www.linkedin.com/in/pichyy-news-8b85a3417](https://www.linkedin.com/in/pichyy-news-8b85a3417)
+
+<br clear="all" />
 
 ## Profile
 
@@ -86,7 +88,7 @@ A passionate and dedicated student in the **Department of Computer Education, Fa
 
 ### IT Intern
 **Advice Lopburi** | *2 Internship Periods*
-- Completed two internship periods during my vocational studies (ปวช. & ปวส.).
+- Completed two internship periods during my vocational studies (Vocational & High Vocational Certificate).
 - Gained practical, hands-on experience in computer hardware, software troubleshooting, and technical support.
 
 ## Notable Projects
@@ -115,12 +117,12 @@ A passionate and dedicated student in the **Department of Computer Education, Fa
     </script>
 
     <script>
-        // อ่านข้อความจาก script tag ด้านบนมาแปลงเป็น HTML
+        // Parse Markdown from script tag above
         const mdText = document.getElementById('md-content').textContent;
-        // ปรับการตั้งค่า marked เล็กน้อยเผื่อรองรับ HTML ใน markdown
+        // Parse with markdown line breaks enabled
         document.getElementById('content').innerHTML = marked.parse(mdText, { breaks: true });
         
-        // ให้เด้งหน้า Print ขึ้นมาอัตโนมัติเมื่อโหลดเสร็จ
+        // Automatically open Print dialog when loaded
         setTimeout(() => {
             window.print();
         }, 1500);
