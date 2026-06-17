@@ -41,6 +41,19 @@ A passionate and dedicated student in the **Department of Computer Education, Fa
 - Completed two internship periods during my vocational studies (ปวช. & ปวส.).
 - Gained practical, hands-on experience in computer hardware, software troubleshooting, and technical support.
 
+## Notable Projects
+
+### [Web-based Classroom Management System to Enhance Engagement and Interactive Learning](http://btct.ced.kmutnb.ac.th/echair/)
+- Developed a comprehensive web application designed to facilitate classroom management, boost student engagement, and support interactive learning.
+
+### Container-based Server Infrastructure & Proxy Domain
+- Architected and deployed a container-based server environment and proxy domain system for the Department of Computer Education.
+- Successfully installed and configured a self-hosted GitLab instance to streamline version control and workflow collaboration.
+
+### AI Harness & LLM Memory System
+- Engineered an AI harness system featuring Large Language Model (LLM) long-term memory integration.
+- Implemented deep research functionalities to enable advanced context retention and automated, in-depth information retrieval.
+
 ## Skills
 - **Software Development:** Web Apps, Mobile Apps, Desktop Apps, API Development
 - **Database & Systems:** Database Design, System Architecture
