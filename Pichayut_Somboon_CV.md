@@ -1,17 +1,19 @@
 # Pichayut Somboon
 
-<img src="profile.png" width="150" alt="Profile Picture" align="right" style="border-radius: 10px;" />
+<img src="profile.png" width="150" alt="Profile Picture" align="right" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
 
 **Date of Birth:** 03/03/2004  
-**Email:** [Your Email] | **Phone:** [Your Phone Number]  
-**LinkedIn:** [Your LinkedIn] | **GitHub:** [Your GitHub]  
+**Email:** [pichayut030347@gmail.com](mailto:pichayut030347@gmail.com) | **Phone:** 087-119-1689  
+**GitHub:** [https://github.com/Pichayut01](https://github.com/Pichayut01)  
+
+<br clear="all" />
 
 ---
 
-## 👨‍💻 Profile
+## Profile
 A passionate and dedicated student in the **Department of Computer Education, Faculty of Technical Education** at **King Mongkut's University of Technology North Bangkok**. I have strong expertise in computer technology, encompassing both **hardware and software programming**. Through my studies, I have developed excellent **teaching and presentation skills**. I also have hands-on experience developing web applications, desktop software, mobile applications, databases, and API systems. I am eager to continue expanding my knowledge and skills in the tech industry.
 
-## 🎓 Education
+## Education
 
 ### King Mongkut's University of Technology North Bangkok
 **Bachelor's Degree** — *Department of Computer Education, Faculty of Technical Education*
@@ -22,7 +24,7 @@ A passionate and dedicated student in the **Department of Computer Education, Fa
 ### Lopburi Technical College
 **Vocational Certificate**
 
-## 💼 Experience & Internships
+## Experience & Internships
 
 ### Teaching Intern
 **Lopburi Technical College** | *1 Year*
@@ -39,7 +41,7 @@ A passionate and dedicated student in the **Department of Computer Education, Fa
 - Completed two internship periods during my vocational studies (ปวช. & ปวส.).
 - Gained practical, hands-on experience in computer hardware, software troubleshooting, and technical support.
 
-## 🛠️ Skills
+## Skills
 - **Software Development:** Web Apps, Mobile Apps, Desktop Apps, API Development
 - **Database & Systems:** Database Design, System Architecture
 - **Computer Technology:** Hardware Assembly and Troubleshooting, Software Integration
