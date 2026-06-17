@@ -17,13 +17,11 @@ A passionate and dedicated student in the **Department of Computer Education, Fa
 ## Education
 
 ### King Mongkut's University of Technology North Bangkok
-**Bachelor's Degree** — *Department of Computer Education, Faculty of Technical Education* | *2024 – 2026*
+- **Bachelor's Degree** — *Department of Computer Education, Faculty of Technical Education* | *2024 – 2026*
 
 ### Lopburi Technical College
-**High Vocational Certificate (Diploma)** — *Department of Computer Technology* | *2022 – 2024*
-
-### Lopburi Technical College
-**Vocational Certificate** — *Department of Computer Technic* | *2019 – 2022*
+- **High Vocational Certificate (Diploma)** — *Department of Computer Technology* | *2022 – 2024*
+- **Vocational Certificate** — *Department of Computer Technic* | *2019 – 2022*
 
 ## Experience & Internships
 
