@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="profile.png" width="150" alt="Profile Picture" style="border-radius: 10px; margin-bottom: 15px;" />
-  
-  <h1>Pichayut Somboon</h1>
-  
-  <b>Date of Birth:</b> 03/03/2004 <br>
-  <b>Email:</b> <a href="mailto:pichayut030347@gmail.com">pichayut030347@gmail.com</a> | <b>Phone:</b> 087-119-1689 <br>
-  <b>GitHub:</b> <a href="https://github.com/Pichayut01">https://github.com/Pichayut01</a>
-</div>
+<h1 align="center">Pichayut Somboon</h1>
 
----
+<img src="profile.png" width="120" alt="Profile Picture" align="right" style="border-radius: 10px; margin-left: 20px;" />
+
+**Date of Birth:** 03/03/2004  
+**Email:** [pichayut030347@gmail.com](mailto:pichayut030347@gmail.com) | **Phone:** 087-119-1689  
+**GitHub:** [https://github.com/Pichayut01](https://github.com/Pichayut01)
+
+<br clear="all" />
 
 ## Profile
 
