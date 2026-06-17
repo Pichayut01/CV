@@ -30,10 +30,11 @@ A passionate and dedicated student in the **Department of Computer Education, Fa
 - Completed a 1-year teaching internship, leveraging my background in technical education to instruct and mentor students in computer subjects.
 - Effectively communicated complex technical concepts and honed my presentation and teaching skills.
 
-### Project Developer
-**Academic & Independent Projects**
-- Successfully delivered multiple software projects throughout my academic journey.
-- **Key Domains:** Web Application Development, Desktop Applications, Mobile Apps, Database Management, and API Integration.
+### Freelance Full-Stack Developer & IT Outsource
+**Independent Projects (During Studies)**
+- Worked extensively as a freelance Full-Stack Developer alongside my studies, delivering complete solutions across web applications, desktop software, mobile apps, database management, and API systems.
+- Acted as an outsourced IT specialist to configure, deploy, and manage various infrastructure systems.
+- Successfully managed and completed the majority of these projects independently from end-to-end as a solo developer.
 
 ### IT Intern
 **Advice Lopburi** | *2 Internship Periods*
