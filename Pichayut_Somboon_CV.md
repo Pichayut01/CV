@@ -18,10 +18,10 @@ A passionate and dedicated student in the **Department of Computer Education, Fa
 **Bachelor's Degree** — *Department of Computer Education, Faculty of Technical Education* | *2024 – 2026*
 
 ### Lopburi Technical College
-**High Vocational Certificate (Diploma)** | *2022 – 2024*
+**High Vocational Certificate (Diploma)** — *Department of Computer Technology* | *2022 – 2024*
 
 ### Lopburi Technical College
-**Vocational Certificate** | *2019 – 2022*
+**Vocational Certificate** — *Department of Computer Technic* | *2019 – 2022*
 
 ## Experience & Internships
 
