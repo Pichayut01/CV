@@ -61,4 +61,6 @@ A passionate and dedicated student in the **Department of Computer Education, Fa
 - **Backend:** Node.js, Express.js, Django, Ruby on Rails (RoR), Laravel, Spring Boot, Flask, ASP.NET Core
 - **Database Systems:** MongoDB, PostgreSQL, MySQL, SQLite, Microsoft SQL Server, Firebase, Firestore
 - **Desktop & Mobile Apps:** React Native, Electron, Tauri
+- **Infrastructure & Servers:** Proxmox, Ubuntu Server, Debian Server, AlmaLinux, Fedora Server, Arch Linux
+- **Networking & Security:** Nginx (Proxy & Load Balancer), pfSense (Firewall)
 - **Computer Technology & Soft Skills:** Hardware Assembly, Troubleshooting, System Architecture, Teaching, Public Speaking
