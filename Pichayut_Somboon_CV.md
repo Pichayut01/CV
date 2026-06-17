@@ -56,7 +56,9 @@ A passionate and dedicated student in the **Department of Computer Education, Fa
 - Implemented deep research functionalities to enable advanced context retention and automated, in-depth information retrieval.
 
 ## Skills
-- **Software Development:** Web Apps, Mobile Apps, Desktop Apps, API Development
-- **Database & Systems:** Database Design, System Architecture
-- **Computer Technology:** Hardware Assembly and Troubleshooting, Software Integration
-- **Soft Skills:** Teaching, Presenting, Public Speaking, Mentoring, Continuous Learning
+- **Programming Languages:** Python, C, C++, Java, JavaScript, TypeScript, Go, Rust, Ruby, Lua, Visual Basic
+- **Web Frontend:** HTML, CSS, JavaScript, TypeScript, PHP, React, Vue.js, Angular, Svelte, Solid.js, Qwik, Astro
+- **Backend:** Node.js, Express.js, Django, Ruby on Rails (RoR), Laravel, Spring Boot, Flask, ASP.NET Core
+- **Database Systems:** MongoDB, PostgreSQL, MySQL, SQLite, Microsoft SQL Server, Firebase, Firestore
+- **Desktop & Mobile Apps:** React Native, Electron, Tauri
+- **Computer Technology & Soft Skills:** Hardware Assembly, Troubleshooting, System Architecture, Teaching, Public Speaking
