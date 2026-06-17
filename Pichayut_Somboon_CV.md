@@ -1,12 +1,14 @@
 <h1 align="center">Pichayut Somboon</h1>
 
-<img src="profile.png" width="120" alt="Profile Picture" align="right" style="border-radius: 10px; margin-left: 20px; margin-bottom: 15px;" />
+<img src="profile.png" width="95" alt="Profile Picture" align="right" style="border-radius: 10px; margin-left: 20px; margin-bottom: 5px;" />
 
-- **Date of Birth:** 03/03/2004  
-- **Email:** [pichayut030347@gmail.com](mailto:pichayut030347@gmail.com)  
-- **Phone:** 087-119-1689  
-- **GitHub:** [https://github.com/Pichayut01](https://github.com/Pichayut01)  
-- **LinkedIn:** [https://www.linkedin.com/in/pichyy-news-8b85a3417](https://www.linkedin.com/in/pichyy-news-8b85a3417)
+**Date of Birth:** 03/03/2004  
+**Email:** [pichayut030347@gmail.com](mailto:pichayut030347@gmail.com)  
+**Phone:** 087-119-1689  
+**GitHub:** [https://github.com/Pichayut01](https://github.com/Pichayut01)  
+**LinkedIn:** [https://www.linkedin.com/in/pichyy-news-8b85a3417](https://www.linkedin.com/in/pichyy-news-8b85a3417)
+
+<br clear="all" />
 
 ## Profile
 
